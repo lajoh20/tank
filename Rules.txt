@@ -1,0 +1,46 @@
+Tank skirmish 
+
+General
+This game is designed to be simple to learn and fast to play.
+
+Measurement
+All measurements will be in inches measured from the center of the vehicle.
+
+Cover
+Cover is based on line of sight when measuring between two vehicles. If any part of the line of sight passes though area cover, the vehicles cannot see each other.
+All wooded areas, buildings, and vehicles count as area cover. 
+Cover cannot be fired through.
+Cover cannot be moved through.
+
+Set up
+T-80’s set up within 6 inches of their board edge.
+M1-A1’s set up within 12 inches of the objective corner.
+
+Turns
+Turns are assigned to each unit randomly by pulling a color die from a bag.
+The corresponding color unit takes its turn. 
+When there are no die left in the bag all die are placed back in the bag and a new set of turns start.
+Each turn consists of the whole unit Moving then Shooting.
+
+Movement
+All vehicles can move up to 6 inches.
+All vehicles can make unlimited turns during their move.
+
+Shooting
+Tanks can fire one shot per turn. Tanks can fire in any direction.
+The maximum range is 12 inches.
+The range to the target is measured and the firing commander must roll equal to or above the range on two D6 to hit.
+When a vehicle is hit it loses one hit point, there are no saves.
+When a vehicle has Zero hit points it has been destroyed and is placed upside down and a black smoke marker placed on top.
+If a friendly non-tank vehicle is within 2 inches of a tank that is hit, the non-tank vehicle can absorb the hit, the tank takes no damage and the non-tank vehicle is removed from the board.
+
+Hit points
+T-80s have one hit point 
+M1A1s have two hit points(a M1A1 with one hit point is marked with a white smoke marker)
+Non tank vehicles have half a hit point 
+When a tank is within 6 inches of an enemy non-tank vehicle the commander can declare that the non tank vehicle has been destroyed by machine gun fire. No dice rolls are needed as this always “hits” and it does not count as the one shot a tank may fire per turn.
+
+Victory conditions
+For the T-80s to win they must get five tanks within 6 inches of the objective corner and have all them remain there for one full set of turns.
+
+For the M1A1’s to win they must destroy 36 T-80s
